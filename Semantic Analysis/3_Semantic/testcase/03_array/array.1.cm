@@ -1,0 +1,9 @@
+int func(void) { return 0; }
+
+void main(void)
+{
+	int x[3];
+
+	x[func()];
+}
+

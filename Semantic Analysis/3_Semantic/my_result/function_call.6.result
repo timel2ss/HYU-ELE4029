@@ -1,0 +1,3 @@
+
+C-MINUS COMPILATION: ./testcase/04_function_call/function_call.6.cm
+Error: Invalid function call at line 7 (name : "func")

@@ -1,0 +1,11 @@
+void a(void) {}
+void b(int c, int d[]) { }
+
+void main(void)
+{
+	int x;
+	int y[4];
+
+	a();
+	b(x, y);
+}

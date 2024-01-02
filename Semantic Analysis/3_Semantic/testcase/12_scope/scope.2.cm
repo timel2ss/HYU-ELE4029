@@ -1,0 +1,8 @@
+int x[3];
+
+void main(void)
+{
+	int x;
+
+	x[0] = 3;
+}

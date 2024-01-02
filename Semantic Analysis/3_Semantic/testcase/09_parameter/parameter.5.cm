@@ -1,0 +1,9 @@
+int x(int x) 
+{ 
+	return x; 
+}
+
+void func(int x)
+{
+	x(x);
+}

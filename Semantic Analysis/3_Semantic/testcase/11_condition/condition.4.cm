@@ -1,0 +1,7 @@
+void a(void) {}
+
+void main(void)
+{
+	while ( a() ) {}
+}
+

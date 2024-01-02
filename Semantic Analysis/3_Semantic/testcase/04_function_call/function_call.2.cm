@@ -1,0 +1,7 @@
+void a(void) {}
+void b(void) {}
+
+void main(void)
+{
+	a(b());
+}

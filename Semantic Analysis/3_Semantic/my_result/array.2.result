@@ -1,0 +1,3 @@
+
+C-MINUS COMPILATION: ./testcase/03_array/array.2.cm
+Error: Invalid array indexing at line 7 (name : "x"). indicies should be integer

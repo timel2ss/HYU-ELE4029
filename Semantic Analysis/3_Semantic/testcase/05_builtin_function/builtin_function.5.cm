@@ -1,0 +1,13 @@
+void main(void)
+{
+	output(input());
+	{
+		output(input());
+		{
+			output(input());
+			{
+				output(input());
+			}
+		}
+	}
+}

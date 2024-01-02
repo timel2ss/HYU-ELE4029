@@ -1,0 +1,3 @@
+
+C-MINUS COMPILATION: ./testcase/01_undeclared/undeclared.1.cm
+Error: undeclared variable "x" is used at line 3

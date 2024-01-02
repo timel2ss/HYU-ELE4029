@@ -1,0 +1,9 @@
+int a(void)
+{
+	return 3;
+}
+
+void b(void)
+{
+	return;
+}

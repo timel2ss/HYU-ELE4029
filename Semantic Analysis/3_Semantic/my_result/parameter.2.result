@@ -1,0 +1,3 @@
+
+C-MINUS COMPILATION: ./testcase/09_parameter/parameter.2.cm
+Error: undeclared variable "func" is used at line 3

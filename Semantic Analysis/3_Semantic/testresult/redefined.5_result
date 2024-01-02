@@ -1,0 +1,3 @@
+
+C-MINUS COMPILATION: ./testcase/02_redefined/redefined.5.cm
+Error: Symbol "func" is redefined at line 2 (already defined at line 1)

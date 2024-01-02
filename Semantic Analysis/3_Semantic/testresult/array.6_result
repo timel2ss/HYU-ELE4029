@@ -1,0 +1,3 @@
+
+C-MINUS COMPILATION: ./testcase/03_array/array.6.cm
+Error: undeclared variable "func" is used at line 5

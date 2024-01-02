@@ -1,0 +1,3 @@
+
+C-MINUS COMPILATION: ./testcase/01_undeclared/undeclared.3.cm
+Error: undeclared function "x" is called at line 5

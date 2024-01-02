@@ -1,0 +1,7 @@
+int a(void) { return 3; }
+
+int b(void)
+{
+	int c;
+	return c = a() + 7;
+}

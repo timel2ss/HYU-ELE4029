@@ -1,0 +1,13 @@
+int z;
+
+void main(void)
+{
+	int y;
+	{
+		int x;
+
+		{
+			x + y + z;
+		}
+	}
+}

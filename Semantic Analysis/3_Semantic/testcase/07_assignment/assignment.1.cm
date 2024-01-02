@@ -1,0 +1,7 @@
+void func(void)
+{
+	int a;
+	int b[3];
+
+	a = b;
+}
